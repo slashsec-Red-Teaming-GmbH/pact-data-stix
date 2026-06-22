@@ -2,19 +2,19 @@
   "id": "2ec09e78-d47a-5534-b865-519628b63e04",
   "name": "PACT",
   "description": "STIX 2.1 collection index for PACT physical security ATT&CK matrix.",
-  "created": "2026-06-22T13:21:10Z",
-  "modified": "2026-06-22T13:21:10Z",
+  "created": "2026-06-22T13:45:22Z",
+  "modified": "2026-06-22T13:45:22Z",
   "collections": [
     {
       "id": "x-mitre-collection--e83c1ce4-5843-559e-be81-1d7239e5bf2f",
-      "created": "2026-06-22T13:21:10Z",
+      "created": "2026-06-22T13:45:22Z",
       "name": "PACT Attack",
       "description": "Physical security tactics, techniques, sub-techniques, and mitigations.",
       "versions": [
         {
           "version": "4.0",
           "url": "https://raw.githubusercontent.com/slashsec-Red-Teaming-GmbH/pact-data-stix/main/pact-attack.json/pact-attack.json",
-          "modified": "2026-06-22T13:21:10Z"
+          "modified": "2026-06-22T13:45:22Z"
         }
       ]
     }
