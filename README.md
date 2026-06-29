@@ -2,7 +2,7 @@
 
 Auto-generated [STIX 2.1](https://oasis-open.github.io/cti-documentation/stix/intro) bundle for the **PACT** (Physical Access & Control Taxonomy) matrix. Use it with [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) or any STIX 2.x tooling.
 
-- **Website:** [pact.slashsec.at](https://pact.slashsec.at)
+- **Website:** [pactmatrix.com](https://pactmatrix.com)
 - **Source dataset (JSON):** [pact-data-json](https://github.com/slashsec-Red-Teaming-GmbH/pact-data-json)
 
 ## ATT&CK Navigator Usage
@@ -31,7 +31,7 @@ Files here are produced by the website CI pipeline from the JSON dataset. To cha
 | STIX bundle | `https://raw.githubusercontent.com/slashsec-Red-Teaming-GmbH/pact-data-stix/main/pact-attack.json` |
 | Collection index | `https://raw.githubusercontent.com/slashsec-Red-Teaming-GmbH/pact-data-stix/main/index.json` |
 
-Technique and tactic pages in the bundle link to [pact.slashsec.at](https://pact.slashsec.at).
+Technique and tactic pages in the bundle link to [pactmatrix.com](https://pactmatrix.com).
 
 ## Reporting issues
 
